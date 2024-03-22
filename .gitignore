@@ -1,0 +1,13 @@
+node_mudles/
+npm-debug.log
+npm-error.log
+
+.env
+
+/dist
+/build
+
+.idea/
+.vscode/
+*.swp
+*.swo
